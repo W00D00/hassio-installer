@@ -1,5 +1,6 @@
 # hassio-installer
 How to install hass.io onto SSD under a Raspbian.
+
 Raspbian image SD kártyára installálása az USB boot-hoz:
 	Kell egy 16, de inkább egy 32GB-os SD kártyára.
 	
